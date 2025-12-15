@@ -2,4 +2,9 @@
   color: firebrick;
   background-color: fuchsia;
   /*background-color: #fff;*/
+  width: auto;
+  height: auto;
+  max-width: 1200px;
+  min-width: 800px;
+
 }
